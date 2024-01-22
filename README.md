@@ -21,16 +21,11 @@
 &nbsp; 🔭 &nbsp; I’m currently working on improving my coding skills <br/>
 &nbsp;🌱 &nbsp; I’m currently learning Frontend Development <br />
 &nbsp;💬 &nbsp; Ask me about things I may know. Always happy to help <br />
-&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Manish Bajagai](mailto:gauravkandari90@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
-&nbsp;🕺🏻 &nbsp; Fun fact : I like to play cricket and watch movies at times. <br />
+&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Gaurav Kandari](mailto:gauravkandari90@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
+&nbsp;🕺🏻 &nbsp; Fun fact : I like to play cricket and watch movies in free time. <br />
   
 <h3>:zap: GitHub Profile Card</h3>
 <br />
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravkandari&theme=vue"/>
-</div>
-
-<h3>:zap: Activity Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gauravkandari&bg_color=0d1117&area=true&area_color=48db4a&theme=github-compact" height=250 alt="graph" />
 </div>
