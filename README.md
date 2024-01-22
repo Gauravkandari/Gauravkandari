@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Welcome to my ✨ Github Account</h1>
+<div align="center">
+  
+### Nice to meet you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gauravkandari)
+  
+</div>
 
-<!--
-**Gauravkandari/Gauravkandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### Connect With Me on :
 
-Here are some ideas to get you started:
+<div align="center"> 
+  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/gourav.gusain.1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kandari-34b205268/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://[www.instagram.com/manish_bajagai/](https://www.instagram.com/gauraavvvv.09/))
+  
+ </div>
+  
+## A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp; 🔭 &nbsp; I’m currently working on improving my coding skills <br/>
+&nbsp;🌱 &nbsp; I’m currently learning whatever I can 🤣 <br />
+&nbsp;💬 &nbsp; Ask me about things I may know. Always happy to help <br />
+&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Manish Bajagai](mailto:manishbajagai2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
+&nbsp;🕺🏻 &nbsp; Fun fact : I like to sketch, create jokes and play guitar at times. <br />
+  
+<h3>:zap: GitHub Profile Card</h3>
+<br />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishbajagai2&theme=vue"/>
+</div>
+
+<h3>:zap: Activity Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manishbajagai2&bg_color=0d1117&area=true&area_color=48db4a&theme=github-compact" height=250 alt="graph" />
+</div>
+
+<h3>:zap: Other Details :</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishbajagai2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishbajagai2&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=11"/>
+</p>
+
+
+<h3>:zap: Streak Stats</h3>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishbajagai2" />
