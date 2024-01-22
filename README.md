@@ -19,29 +19,18 @@
 ## A little about me:
 
 &nbsp; 🔭 &nbsp; I’m currently working on improving my coding skills <br/>
-&nbsp;🌱 &nbsp; I’m currently learning whatever I can 🤣 <br />
+&nbsp;🌱 &nbsp; I’m currently learning Frontend Development <br />
 &nbsp;💬 &nbsp; Ask me about things I may know. Always happy to help <br />
-&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Manish Bajagai](mailto:manishbajagai2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
-&nbsp;🕺🏻 &nbsp; Fun fact : I like to sketch, create jokes and play guitar at times. <br />
+&nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Manish Bajagai](mailto:gauravkandari90@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
+&nbsp;🕺🏻 &nbsp; Fun fact : I like to play cricket and watch movies at times. <br />
   
 <h3>:zap: GitHub Profile Card</h3>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishbajagai2&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravkandari&theme=vue"/>
 </div>
 
 <h3>:zap: Activity Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manishbajagai2&bg_color=0d1117&area=true&area_color=48db4a&theme=github-compact" height=250 alt="graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gauravkandari&bg_color=0d1117&area=true&area_color=48db4a&theme=github-compact" height=250 alt="graph" />
 </div>
-
-<h3>:zap: Other Details :</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishbajagai2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishbajagai2&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=11"/>
-</p>
-
-
-<h3>:zap: Streak Stats</h3>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishbajagai2" />
